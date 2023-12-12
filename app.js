@@ -6,6 +6,7 @@ export default function App() {
     return (
         <div className="App">
             <Greeter />
+            <div>My app</div>
             <Dog />
             <Dog />
             <Greeter />
